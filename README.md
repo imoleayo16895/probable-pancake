@@ -35,6 +35,7 @@ Exploratory Data Analysis
 ---
 I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
 
+![](tp_pivot.png)
 
 ![](profit_1.png)
 
@@ -47,3 +48,7 @@ This revealed that despite the jump in sales between 2015 and 2017, the rise in 
 ![](pm_1417.png)
 
 This enunciates that inspite of the surge in sales between 2015 to 2017, the profit margin has remained static through these years.
+
+---
+
+To obtain the best and least performing categories and any change in this trend,  
