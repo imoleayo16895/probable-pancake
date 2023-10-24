@@ -41,3 +41,7 @@ I explored the trend in total profit between 2014 to 2017. This showed that ther
 I compared the trend in the total profit and total sales made by the Superstore between 2014 and 2017.
 
 ![](ts_tp.png)
+
+This revealed that despite the jump in sales between 2015 and 2017, the rise in total profit was minimal. This will be revealed better as we compare the profit margin across these years.
+
+![](pm_1417.png)
