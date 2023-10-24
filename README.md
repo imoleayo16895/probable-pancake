@@ -60,6 +60,7 @@ This revealed that despite the jump in sales between 2015 and 2017, the rise in 
 
 
 
+
 ![](pm_ana.png)
 
 
@@ -71,6 +72,22 @@ This enunciates that inspite of the surge in sales between 2015 to 2017, the pro
 ---
 
 To obtain the best and least performing categories and any change in this trend, I compared the Total Sales for the different categories from 2014 to 2017 and then the Total Profit.
+
+![](ts_cat.png)
+
+![](ts_cattrend.png)
+
+This showed that technology category maintained the highest sales from 2014 to 2017 except in 2015 when its sales was over ridden by the Furniture category. There was an overall rise in sales in all the categories, however, the Furniture category made the least sales in 2017.
+
+
+In comparing the trend in the Total profit across the main categories,
+
+![](tp_cat.png)
+
+![](tp_cattrend.png)
+
+Technology made the most profit with an over 100% rise from 2014 to 2017 while Furniture made the least profit in 2017 which was even lower than the profit in 2014.
+
 
 
 
