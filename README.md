@@ -19,6 +19,8 @@ Data☄️
 The data analyzed contained 9995 rows of data with columns that consisted of the Order ID, 0rder Date, Year, Ship Date, Customer ID,Customer Name, Segment, Country, City, State, Postal Code, Region, Product ID, Category, Sub-category, Product Name, Sales, Quantity Sold, Discount and Profit.
 
 ![](data_1.png)
+
+
 ![](data_2.png)
 
 ---
@@ -35,11 +37,15 @@ Exploratory Data Analysis
 ---
 I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
 
+
   ![](tp_pivot.png)
 
 
 
 ![](profit_1.png)
+
+---
+
 
 I compared the trend in the total profit and total sales made by the Superstore between 2014 and 2017.
 
@@ -49,15 +55,25 @@ I compared the trend in the total profit and total sales made by the Superstore 
 
 ![](ts_tp.png)
 
+
 This revealed that despite the jump in sales between 2015 and 2017, the rise in total profit was minimal. This will be revealed better as we compare the profit margin across these years.
+
+
 
 ![](pm_ana.png)
 
 
 ![](pm_1417.png)
 
+
 This enunciates that inspite of the surge in sales between 2015 to 2017, the profit margin has remained static through these years.
 
 ---
 
-To obtain the best and least performing categories and any change in this trend,  
+To obtain the best and least performing categories and any change in this trend, I compared the Total Sales for the different categories from 2014 to 2017 and then the Total Profit.
+
+
+
+
+
+
