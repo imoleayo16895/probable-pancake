@@ -28,3 +28,11 @@ Project Goal 🥅
 The aim of this project is to determine the health of the business and know if they are making profits or losses by studying the sales and profit trend in the Superstore across all the states in the USA. I also aim to identify the poorly performing states in terms of sales and profit and the overall profit margin made per year. This would help to provide insight on strategies to apply and WHERE to apply these strategies. We also identify strategies used in the past to drive sales and the impact on this on sales and profit.
 
 ![](business_health.png)
+---
+
+
+Exploratory Data Analysis
+---
+I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
+![](profit_1417.png)
+
