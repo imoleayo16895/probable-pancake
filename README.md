@@ -26,3 +26,5 @@ The data analyzed contained 9995 rows of data with columns that consisted of the
 Project Goal 🥅
 ---
 The aim of this project is to determine the health of the business and know if they are making profits or losses by studying the sales and profit trend in the Superstore across all the states in the USA. I also aim to identify the poorly performing states in terms of sales and profit and the overall profit margin made per year. This would help to provide insight on strategies to apply and WHERE to apply these strategies. We also identify strategies used in the past to drive sales and the impact on this on sales and profit.
+
+![](business_health.png)
