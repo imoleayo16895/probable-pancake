@@ -35,7 +35,7 @@ The aim of this project is to determine the health of the business and know if t
 
 Exploratory Data Analysis
 ---
-I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
+I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years. This was done with the Microsoft Excel Pivot function.
 
 
   ![](tp_pivot.png)
@@ -47,7 +47,7 @@ I explored the trend in total profit between 2014 to 2017. This showed that ther
 ---
 
 
-I compared the trend in the total profit and total sales made by the Superstore between 2014 and 2017.
+I compared the trend in the total profit and total sales made by the Superstore between 2014 and 2017. This was done with the Microsoft Excel Pivot function.
 
 ![](tstp_pivot.png)
 
@@ -71,13 +71,13 @@ This enunciates that inspite of the surge in sales between 2015 to 2017, the pro
 
 ---
 
-To obtain the best and least performing categories and any change in this trend, I compared the Total Sales for the different categories from 2014 to 2017 and then the Total Profit.
+To obtain the best and least performing categories and any change in this trend, I compared the Total Sales for the different categories from 2014 to 2017 and then the Total Profit. This was done with the Microsoft Excel Pivot function.
 
 ![](ts_cat.png)
 
 ![](ts_cattrend.png)
 
-This showed that technology category maintained the highest sales from 2014 to 2017 except in 2015 when its sales was over ridden by the Furniture category. There was an overall rise in sales in all the categories, however, the Furniture category made the least sales in 2017.
+This showed that Technology Category maintained the highest sales from 2014 to 2017 except in 2015 when its sales was over-ridden by the Furniture category. There was an overall rise in sales in all the categories, however, the Furniture category made the least sales in 2017 as against Office Supplies in 2014.
 
 
 In comparing the trend in the Total profit across the main categories,
