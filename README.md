@@ -88,6 +88,16 @@ In comparing the trend in the Total profit across the main categories,
 
 Technology made the most profit with an over 100% rise from 2014 to 2017 while Furniture made the least profit in 2017 which was even lower than the profit in 2014.
 
+---
+
+After establishing the fact that Technology is the most profitable Category in 2017, I dug deeper to know which Sub-category in Technology made the most profit. This would help in making procurement decisions.
+
+
+![](tptech_pivot.png)
+
+![](tssub.png)
+
+
 
 
 
