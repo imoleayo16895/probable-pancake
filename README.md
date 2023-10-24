@@ -35,7 +35,9 @@ Exploratory Data Analysis
 ---
 I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
 
-![](tp_pivot.png)
+  ![](tp_pivot.png)
+
+
 
 ![](profit_1.png)
 
