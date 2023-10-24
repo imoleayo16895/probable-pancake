@@ -36,5 +36,8 @@ Exploratory Data Analysis
 I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years.
 
 
-![](profit_14.png)
+![](profit_1.png)
 
+I compared the trend in the total profit and total sales made by the Superstore between 2014 and 2017.
+
+![](ts_tp.png)
