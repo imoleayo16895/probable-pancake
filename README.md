@@ -33,7 +33,8 @@ The aim of this project is to determine the health of the business and know if t
 ---
 
 
-Exploratory Data Analysis
+Exploratory Data Analysis📈 
+
 ---
 I explored the trend in total profit between 2014 to 2017. This showed that there was a steady rise in the total profit from $49,543.97 in 2014 to $93,439.27 in 2017 amounting to a 53% increase across these years. This was done with the Microsoft Excel Pivot function.
 
