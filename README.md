@@ -133,3 +133,14 @@ Discounts were given in some instances to boost sales. I studied the effect of D
 
 
 This shows that giving Discounts is not a viable plan in the Superstore as instances where it was not given made more Profits. In fact, areas where NO discount was given had the HIGHEST profits.
+
+
+
+Analysis of Total Sales by State showed the states with high performance in Total Sales with California in the lead and North Dakota making the least Sales.
+
+
+![](sale_state.png)
+
+
+
+![](map_state.png)
