@@ -112,7 +112,7 @@ Furnitures made the least profit overall and losses were made in the Tables and 
 
 
 
-In analyzing the Segment that made the most profit, it was discovered that Consumers netted in the most profit at $134.119. This was done using the Microsoft Excel Pivot function.
+In analyzing the Segment that made the most profit, it was discovered that Consumers netted in the most profit at $134,119. This was done using the Microsoft Excel Pivot function.
 
 
 ![](seg_pivot.png)
@@ -132,3 +132,4 @@ Discounts were given in some instances to boost sales. I studied the effect of D
 ![](dis_chart.png)
 
 
+This shows that giving Discounts is not a viable plan in the Superstore as instances where it was not given made more Profits. In fact, areas where NO discount was given had the HIGHEST profits.
