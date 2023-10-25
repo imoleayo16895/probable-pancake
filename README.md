@@ -129,6 +129,8 @@ Discounts were given in some instances to boost sales. I studied the effect of D
 ![](dis_pivot.png)
 
 
+
+
 ![](dis_chart.png)
 
 
@@ -166,3 +168,8 @@ Finally, I scrutinized the total number of Customers and the rate of Customer gr
 ![](cus_cattrend.png)
 
 
+
+Conclusion
+---
+
+In conclusion, plans and policies need to be put in place to increase not only Sales but the Profit margin. Also, some states need more interventions than others and resources should be equitably distributed.
