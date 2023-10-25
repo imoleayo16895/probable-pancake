@@ -120,3 +120,15 @@ In analyzing the Segment that made the most profit, it was discovered that Consu
 ![](seg_pie.png)
 
 This shows that more strategies need to be implemented to boost the sales and profit amongst the Home Office and Corporate segments. It also implies that the Consumer directed actions are yielding fruits.
+
+
+
+Discounts were given in some instances to boost sales. I studied the effect of Discounts on Total Profit.
+
+
+![](dis_pivot.png)
+
+
+![](dis_chart.png)
+
+
