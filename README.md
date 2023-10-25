@@ -98,9 +98,15 @@ After establishing the fact that Technology is the most profitable Category in 2
 
 ![](tssub.png)
 
+Copiers made the most profit whilst machines made the least profit.
 
 
+Furnitures made the least profit overall and losses were made in the Tables and Bookcases subcategory.
 
+![](furniture_pivot.png)
+
+
+![](furniture_chart.png)
 
 
 
