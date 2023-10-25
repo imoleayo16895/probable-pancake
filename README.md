@@ -150,6 +150,19 @@ Sales does not always transmit to Profit, hence, I studied the profit margins ac
 
 ![](sale_state.png)
 
+
+
 ![](pm_state.png)
 
 This reiterates that Sales does not mean Profit as District of Columbia with the the total sales of 2,865 had the highest profit margin of 37% whereas Ohio with Sales of $78,258 had a made in the negative -22% indicating an overall loss despite the Sales.
+
+
+
+Finally, I scrutinized the total number of Customers and the rate of Customer growth per Category between 2014 and 2017.
+
+![](cus_category.png)
+
+
+![](cus_cattrend.png)
+
+
