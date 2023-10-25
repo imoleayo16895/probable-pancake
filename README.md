@@ -101,6 +101,8 @@ After establishing the fact that Technology is the most profitable Category in 2
 Copiers made the most profit whilst machines made the least profit.
 
 
+
+
 Furnitures made the least profit overall and losses were made in the Tables and Bookcases subcategory.
 
 ![](furniture_pivot.png)
@@ -110,4 +112,11 @@ Furnitures made the least profit overall and losses were made in the Tables and 
 
 
 
+In analyzing the Segment that made the most profit, it was discovered that Consumers netted in the most profit at $134.119. This was done using the Microsoft Excel Pivot function.
 
+
+![](seg_pivot.png)
+
+![](seg_pie.png)
+
+This shows that more strategies need to be implemented to boost the sales and profit amongst the Home Office and Corporate segments. It also implies that the Consumer directed actions are yielding fruits.
